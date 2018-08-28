@@ -1,0 +1,1 @@
+Technologies involved: Spring Boot, Spring Cloud Ribbon, Spring Cloud Eureka, Spring Cloud Hystrix, Spring Cloud Sleuth, Redis, JWT, ElasticSearch, Logstash and Kibana.
